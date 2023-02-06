@@ -66,7 +66,8 @@ end
 There are a few key differences in the syntax here:
 
 - Use the `def` keyword to identify this code as a method.
-- Write the name of the method in snake case (by convention).
+- Write the name of the method in
+ snake case (by convention).
 - Parameters are still defined in parentheses, after the method name.
 - Instead of curly parentheses, use the `end` keyword to identify where the
   method ends.
